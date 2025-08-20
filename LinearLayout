@@ -1,0 +1,5 @@
+<LinearLayout android:orientation="vertical">
+  <TextView android:text="Email" />
+  <EditText />
+  <Button android:text="Enviar" />
+</LinearLayout>
