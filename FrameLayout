@@ -1,0 +1,4 @@
+<FrameLayout>
+  <ImageView src="@drawable/bg" />
+  <TextView text="Texto por cima" />
+</FrameLayout>
